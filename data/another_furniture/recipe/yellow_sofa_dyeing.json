@@ -1,0 +1,59 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:yellow_dye"
+    },
+    [
+      {
+        "item": "another_furniture:black_sofa"
+      },
+      {
+        "item": "another_furniture:blue_sofa"
+      },
+      {
+        "item": "another_furniture:brown_sofa"
+      },
+      {
+        "item": "another_furniture:cyan_sofa"
+      },
+      {
+        "item": "another_furniture:gray_sofa"
+      },
+      {
+        "item": "another_furniture:green_sofa"
+      },
+      {
+        "item": "another_furniture:light_blue_sofa"
+      },
+      {
+        "item": "another_furniture:light_gray_sofa"
+      },
+      {
+        "item": "another_furniture:lime_sofa"
+      },
+      {
+        "item": "another_furniture:magenta_sofa"
+      },
+      {
+        "item": "another_furniture:orange_sofa"
+      },
+      {
+        "item": "another_furniture:pink_sofa"
+      },
+      {
+        "item": "another_furniture:purple_sofa"
+      },
+      {
+        "item": "another_furniture:red_sofa"
+      },
+      {
+        "item": "another_furniture:white_sofa"
+      }
+    ]
+  ],
+  "result": {
+    "count": 1,
+    "id": "another_furniture:yellow_sofa"
+  }
+}

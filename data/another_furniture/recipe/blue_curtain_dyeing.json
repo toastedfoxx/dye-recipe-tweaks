@@ -1,0 +1,59 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:blue_dye"
+    },
+    [
+      {
+        "item": "another_furniture:black_curtain"
+      },
+      {
+        "item": "another_furniture:brown_curtain"
+      },
+      {
+        "item": "another_furniture:cyan_curtain"
+      },
+      {
+        "item": "another_furniture:gray_curtain"
+      },
+      {
+        "item": "another_furniture:green_curtain"
+      },
+      {
+        "item": "another_furniture:light_blue_curtain"
+      },
+      {
+        "item": "another_furniture:light_gray_curtain"
+      },
+      {
+        "item": "another_furniture:lime_curtain"
+      },
+      {
+        "item": "another_furniture:magenta_curtain"
+      },
+      {
+        "item": "another_furniture:orange_curtain"
+      },
+      {
+        "item": "another_furniture:pink_curtain"
+      },
+      {
+        "item": "another_furniture:purple_curtain"
+      },
+      {
+        "item": "another_furniture:red_curtain"
+      },
+      {
+        "item": "another_furniture:yellow_curtain"
+      },
+      {
+        "item": "another_furniture:white_curtain"
+      }
+    ]
+  ],
+  "result": {
+    "count": 1,
+    "id": "another_furniture:blue_curtain"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:red_dye"
+    },
+    [
+      {
+        "item": "another_furniture:black_lamp"
+      },
+      {
+        "item": "another_furniture:blue_lamp"
+      },
+      {
+        "item": "another_furniture:brown_lamp"
+      },
+      {
+        "item": "another_furniture:cyan_lamp"
+      },
+      {
+        "item": "another_furniture:gray_lamp"
+      },
+      {
+        "item": "another_furniture:green_lamp"
+      },
+      {
+        "item": "another_furniture:light_blue_lamp"
+      },
+      {
+        "item": "another_furniture:light_gray_lamp"
+      },
+      {
+        "item": "another_furniture:lime_lamp"
+      },
+      {
+        "item": "another_furniture:magenta_lamp"
+      },
+      {
+        "item": "another_furniture:orange_lamp"
+      },
+      {
+        "item": "another_furniture:pink_lamp"
+      },
+      {
+        "item": "another_furniture:purple_lamp"
+      },
+      {
+        "item": "another_furniture:yellow_lamp"
+      },
+      {
+        "item": "another_furniture:white_lamp"
+      }
+    ]
+  ],
+  "result": {
+    "count": 1,
+    "id": "another_furniture:red_lamp"
+  }
+}
